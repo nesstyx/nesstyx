@@ -1,12 +1,15 @@
-# Hi there, I'm ChupikPupik 👋
+# Hi, I'm ChupikPupik
 
-I am a self-taught developer focused on building web applications, exploring backend development, and learning low-level programming. I enjoy breaking things apart to understand how they work under the hood.
+I taught myself how to program and currently do web development, backend, and low-level programming. I like to take everything apart to understand how it works from the inside.
 
-### 💻 Tech Stack & Current Focus
-* **Languages:** Actively learning **C#** for application logic and exploring **Rust** for performance and memory safety. Confident with core web tech (**HTML / CSS**).
-* **Main Project:** I built and currently maintain [chesshome.pro](https://chesshome.pro), a dedicated platform for chess enthusiasts.
-* **Open Source:** Planning to contribute to the **Lichess** ecosystem (bug fixes, features, and UI improvements).
+### Technologies and current tasks:
 
-### 🔒 Cyber Security Interests
-I have a deep interest in cybersecurity and ethical hacking. I enjoy analyzing software vulnerabilities, securing web applications, and understanding how data protection works across networks. 
+* **Languages and directions:** Right now I am actively learning C# for application logic and backend. I also really like Rust because of its speed and safety. In the future, I want to create fast DDoS protection services, as well as scalable game engines or chess engines. Besides, I know basic web technologies (HTML/CSS) well.
+* **Main project:** I created and maintain chesshome.pro - a platform for chess lovers.
+* **Open source:** I plan to participate in Lichess projects, fix bugs, add new features, and improve the interface.
 
+### Interests in cybersecurity:
+
+I am very interested in cybersecurity and ethical hacking. I love to analyze software vulnerabilities, protect web applications, and understand how data protection works in networks.
+
+---
