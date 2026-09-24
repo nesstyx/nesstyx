@@ -4,7 +4,7 @@ I taught myself how to program and currently do web development, backend, and lo
 
 ### Technologies and current tasks:
 
-* **Languages and directions:** Right now I am actively learning C# for application logic and backend. I also really like Rust because of its speed and safety. In the future, I want to create fast DDoS protection services, as well as scalable game engines or chess engines. Besides, I know basic web technologies (HTML/CSS) well.
+* **Languages and directions:** Right now I am actively learning Go. I also really like Rust because of its speed and safety. In the future, I want to create fast DDoS protection services, as well as scalable game engines or chess engines. Besides, I know basic web technologies (HTML/CSS) well.
 * **Main project:** I created and maintain chesshome.pro - a platform for chess lovers.
 * **Open source:** I plan to participate in Lichess projects, fix bugs, add new features, and improve the interface.
 
