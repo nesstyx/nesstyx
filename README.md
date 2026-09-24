@@ -1,4 +1,4 @@
-# Hi, I'm ChupikPupik
+# Hi, I'm Nesstyx
 
 I taught myself how to program and currently do web development, backend, and low-level programming. I like to take everything apart to understand how it works from the inside.
 
