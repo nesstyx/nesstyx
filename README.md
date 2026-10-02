@@ -10,6 +10,6 @@ I taught myself how to program and currently do web development, backend, and lo
 
 ### Interests in cybersecurity:
 
-I am very interested in cybersecurity and ethical hacking. I love to analyze software vulnerabilities, protect web applications, and understand how data protection works in networks.
+I am very interested in cybersecurity and ethical hacking! I love to analyze software vulnerabilities, protect web applications, and understand how data protection works in networks.
 
 ---
